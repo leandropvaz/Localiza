@@ -1,0 +1,9 @@
+C:\Users\uz66201\source\repos\LocalizaTeste\UtilsMath\bin\Release\netcoreapp3.1\UtilsMath.deps.json
+C:\Users\uz66201\source\repos\LocalizaTeste\UtilsMath\bin\Release\netcoreapp3.1\UtilsMath.dll
+C:\Users\uz66201\source\repos\LocalizaTeste\UtilsMath\bin\Release\netcoreapp3.1\UtilsMath.pdb
+C:\Users\uz66201\source\repos\LocalizaTeste\UtilsMath\obj\Release\netcoreapp3.1\UtilsMath.csprojAssemblyReference.cache
+C:\Users\uz66201\source\repos\LocalizaTeste\UtilsMath\obj\Release\netcoreapp3.1\UtilsMath.AssemblyInfoInputs.cache
+C:\Users\uz66201\source\repos\LocalizaTeste\UtilsMath\obj\Release\netcoreapp3.1\UtilsMath.AssemblyInfo.cs
+C:\Users\uz66201\source\repos\LocalizaTeste\UtilsMath\obj\Release\netcoreapp3.1\UtilsMath.csproj.CoreCompileInputs.cache
+C:\Users\uz66201\source\repos\LocalizaTeste\UtilsMath\obj\Release\netcoreapp3.1\UtilsMath.dll
+C:\Users\uz66201\source\repos\LocalizaTeste\UtilsMath\obj\Release\netcoreapp3.1\UtilsMath.pdb

@@ -1,0 +1,16 @@
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\bin\Release\netcoreapp3.1\LocalizaTeste.exe
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\bin\Release\netcoreapp3.1\LocalizaTeste.deps.json
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\bin\Release\netcoreapp3.1\LocalizaTeste.runtimeconfig.json
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\bin\Release\netcoreapp3.1\LocalizaTeste.runtimeconfig.dev.json
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\bin\Release\netcoreapp3.1\LocalizaTeste.dll
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\bin\Release\netcoreapp3.1\LocalizaTeste.pdb
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\bin\Release\netcoreapp3.1\UtilsMath.dll
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\bin\Release\netcoreapp3.1\UtilsMath.pdb
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\obj\Release\netcoreapp3.1\LocalizaTeste.csprojAssemblyReference.cache
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\obj\Release\netcoreapp3.1\LocalizaTeste.AssemblyInfoInputs.cache
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\obj\Release\netcoreapp3.1\LocalizaTeste.AssemblyInfo.cs
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\obj\Release\netcoreapp3.1\LocalizaTeste.csproj.CoreCompileInputs.cache
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\obj\Release\netcoreapp3.1\LocalizaTeste.csproj.CopyComplete
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\obj\Release\netcoreapp3.1\LocalizaTeste.dll
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\obj\Release\netcoreapp3.1\LocalizaTeste.pdb
+C:\Users\uz66201\source\repos\LocalizaTeste\LocalizaTeste\obj\Release\netcoreapp3.1\LocalizaTeste.genruntimeconfig.cache

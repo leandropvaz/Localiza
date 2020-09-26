@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LocalizaTeste/1.0.0": {
+        "dependencies": {
+          "UtilsMath": "1.0.0"
+        },
+        "runtime": {
+          "LocalizaTeste.dll": {}
+        }
+      },
+      "UtilsMath/1.0.0": {
+        "runtime": {
+          "UtilsMath.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LocalizaTeste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UtilsMath/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

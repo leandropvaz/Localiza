@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MGp57VNKDsXFakpT6vhmha2BB3JZls4ansW/3QwIS2Q9805jrUEjpsAy9rNTnMWGtwyFbaiBntYgjMF9S46R/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uz66201\\Source\\Repos\\Localiza3\\LocalizaTesteAPI\\LocalizaTesteAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uz66201\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
